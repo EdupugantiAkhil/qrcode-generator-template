@@ -1,0 +1,14 @@
+{
+  "name": "qrcode-generator-template",
+  "version": "1.0.0",
+  "description": "generates qrcode for given input string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akhil",
+  "license": "ISC",
+  "dependencies": {
+    "qrcode": "^1.5.0"
+  }
+}
